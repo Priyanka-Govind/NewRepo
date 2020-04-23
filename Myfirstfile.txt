@@ -1,2 +1,3 @@
 Created from GitHub
 New changes added to learn merging git branches
+New changes added to learn merging git branches from gitbash
